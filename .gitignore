@@ -1,0 +1,4 @@
+
+*.jpg
+*.tfrec
+.ipynb_checkpoints/CycleGAN-checkpoint.ipynb
